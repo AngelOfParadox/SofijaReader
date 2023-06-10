@@ -12,10 +12,6 @@ Currently supports:
 * cbr / cbz
 * md
 
-## Contribute
-[Paypal](https://www.paypal.me/supportlector)
-
-Bitcoin: 17jaxj26vFJNqQ2hEVerbBV5fpTusfqFro
 
 ## Requirements
 ### Needed
